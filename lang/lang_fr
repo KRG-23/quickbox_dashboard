@@ -96,6 +96,7 @@ $L['RECENT_UPDATES'] = 'Activités récentes & MaJ';
 $L['RECENT_UPDATES_TXT'] = 'Ce flux se met à jour chaque minute';
 
 
+
 ////////////////////////////////////////
 //PACKAGE MANAGEMENT CENTER
 ///////////////////////////////////////
